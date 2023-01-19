@@ -1,5 +1,5 @@
 <h1 align="center">Hello, world! I'm Giovanni</h1>
-<h3 align="center">Software developer, located in Rio, Brazil.</h3>
+<h3 align="center">Web developer, located in Rio, Brazil.</h3>
 
 <br>
 
