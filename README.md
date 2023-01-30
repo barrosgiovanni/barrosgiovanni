@@ -7,7 +7,7 @@
 
 <br>
 
-I’m learning new things in a daily basis and I'm interested in topics related to **Ruby on Rails and JavaScript**
+I’m learning new things in a daily basis and I'm interested in topics related to **Ruby on Rails, React and NodeJS**
 
 <br>
 
