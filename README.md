@@ -1,5 +1,4 @@
 <h1 align="center">Hello, world! I'm Giovanni</h1>
-<h3 align="center">Web developer, located in Rio, Brazil.</h3>
 
 <br>
 
@@ -7,7 +6,7 @@
 
 <br>
 
-I’m learning new things in a daily basis and I'm interested in topics related to **Ruby on Rails, React and NodeJS**.
+I’m learning new things in a daily basis and I'm interested in topics related to **MERN Stack (MongoDB, ExpressJS, React & NodeJS) and Ruby on Rails**.
 
 <br>
 
